@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular Expert**
 
-- 👨‍💻 All of my projects are available at [https://webstash.de/#/portfolio](https://webstash.de/portfolio)
+- 👨‍💻 All of my projects are available at [https://webstash.de/portfolio](https://webstash.de/#/portfolio)
 
 - 💬 Ask me about **ionic, angular**
 
