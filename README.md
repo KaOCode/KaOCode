@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Internal Angular Project (for Business)**
 
-- 🌱 I’m currently learning **Angular Expert**
+- 🌱 I’m currently learning **React & Vue**
 
 - 👨‍💻 Visit my Website at [https://webstash.de](https://webstash.de/)
 
