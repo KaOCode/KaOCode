@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaocode&label=Profile%20views&color=0e75b6&style=flat" alt="kaocode" /> </p>
 
-- 🔭 I’m currently working on **Internal Angular Project (for Business)**
+- 🔭 I’m currently working on **Company Internal JS, Python, Bootstrap Component**
 
 - 🌱 I’m currently learning **React & Vue**
 
